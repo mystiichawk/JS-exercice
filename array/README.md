@@ -40,10 +40,10 @@ Rajouter "Courgette" au tableau array;
 ##Exercice 9 /*citron*/
 Rajouter "Citron" au tableau d'index 4;
 
-##Exercice 10
+##Exercice 10 /*terminé*/
 Retirer "Cerise";
 
-##Exercice 11
+##Exercice 11/*terminé*/
 Rajouter "Poire" en index 2 du tableau array;
 
 * Forkez le repo !
