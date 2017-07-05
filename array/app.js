@@ -1,8 +1,9 @@
 var mois = ["janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"];
 
-mois= [2];
-mois= [5];
-mois= [8];
+console.log (mois [2]);
+console.log (mois [5]);
+console.log (mois [10]);
+
 
 
 
