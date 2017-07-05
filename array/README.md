@@ -37,7 +37,7 @@ Récuperer le fichier array/app.js;
 ##Exercice 8 /*terminé*/
 Rajouter "Courgette" au tableau array;
 
-##Exercice 9
+##Exercice 9 /*citron*/
 Rajouter "Citron" au tableau d'index 4;
 
 ##Exercice 10
