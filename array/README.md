@@ -16,22 +16,22 @@ Créer un tableau **mois** et l'initialiser avec les valeurs suivantes :
 - **novembre**
 - **décembre**
 
-##Exercice 2
+##Exercice 2 /*terminé*/
 Avec le tableau de l'exercice 1, afficher la valeur de la troisième ligne de ce tableau.
 
-##Exercice 3
+##Exercice 3 /* terminé*/
 Avec le tableau de l'exercice  1, afficher la valeur de l'index 5.
 
-##Exercice 4
+##Exercice 4 /*terminé*/
 Avec le tableau de l'exercice  1, afficher "novembre".
 
-##Exercice 5
+##Exercice 5 /*terminé*/
 Avec le tableau de l'exercice 1, modifier le mois de **aout** pour lui ajouter l'accent manquant.
 
-##Exercice 6
+##Exercice 6 /*terminé*/
 Avec le tableau de l'exercice 1, afficher toutes les valeurs de ce tableau.
 
-##Exercice 7
+##Exercice 7 /*
 Récuperer le fichier array/app.js;
 
 ##Exercice 8
