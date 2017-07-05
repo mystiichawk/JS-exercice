@@ -31,7 +31,7 @@ Avec le tableau de l'exercice 1, modifier le mois de **aout** pour lui ajouter l
 ##Exercice 6 /*terminé*/
 Avec le tableau de l'exercice 1, afficher toutes les valeurs de ce tableau.
 
-##Exercice 7 /*
+##Exercice 7 /*terminé*/
 Récuperer le fichier array/app.js;
 
 ##Exercice 8
