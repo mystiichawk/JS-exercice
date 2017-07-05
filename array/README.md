@@ -34,7 +34,7 @@ Avec le tableau de l'exercice 1, afficher toutes les valeurs de ce tableau.
 ##Exercice 7 /*terminé*/
 Récuperer le fichier array/app.js;
 
-##Exercice 8
+##Exercice 8 /*terminé*/
 Rajouter "Courgette" au tableau array;
 
 ##Exercice 9
